@@ -3,9 +3,10 @@ Um projeto de "Linktree sobre o Vitor Honorato" é uma plataforma online semelha
 
 # Layout
 <div>
-  <img src=" "/>
-  <img src=" "/>
+  <img src="https://github.com/vittorhonorato/Linktree/assets/120854832/471bc03d-aef2-4391-9734-90a1f815fdef"/>
+  <img src="https://github.com/vittorhonorato/Linktree/assets/120854832/619a7e24-550c-4d35-957b-d639e75f4c33"/>
 </div>
+
 # Tecnologias
 - HTML
 - CSS
